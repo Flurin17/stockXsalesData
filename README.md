@@ -3,6 +3,8 @@
 This repository contains a comprehensive dataset of daily market data scraped from StockX for over 4000 top products from 2020 to 2021. With over 1 million entries, this dataset aims to provide insights into market dynamics, price trends, and buyer-seller behaviors on the StockX platform.
 
 ## Dataset Description
+Download the dataset here: https://drive.google.com/file/d/1vO4Yh2LSk2yDuI15aXwxpwNJ9gXrbSrm/view?usp=sharing
+all.json is just the products with their stockX UUIDs.
 
 The dataset comprises daily market snapshots for a variety of products, captured in JSON format. Each entry includes the following fields:
 
